@@ -7,7 +7,7 @@ Notion : https://consistently-n-be-positive.notion.site/ce2fae71709d4eddb2834f2c
   
 　    
 # Project
-TREND_EATER
+TREND_EATER    
 
 
 
