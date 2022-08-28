@@ -6,8 +6,27 @@ Notion : https://consistently-n-be-positive.notion.site/ce2fae71709d4eddb2834f2c
   
   
 　    
-# 
-TREND_EATER 
+# Project
+TREND_EATER
+
+
+
+
+## 담당 개발 내용
+
+사용자,관리자 게시판 
+조회 ,쓰기 ,수정 ,삭제(CRUD)
+프론트단
+
+
+
+## 팀 사용 기술
+
+- JAVA 8/ Spring MVC / MyBatis / Bcrypt / Apache Tomcat 9.0 / Oracle 11g / SQL Developer
+- HTML5 / CSS3 / jQuery / JS
+- Kakao Login API / iamport API
+- Github
+
 　  
 ## 프로젝트 개요
 제품 구매 및 매출에 대한 영향력 등 리뷰의 중요성이 증가하고 있습니다. 
@@ -113,14 +132,5 @@ TREND_EATER
         - 페이징 처리
 
 
-## 사용 기술
-
-- JAVA 8/ Spring MVC / MyBatis / Bcrypt / Apache Tomcat 9.0 / Oracle 11g / SQL Developer
-- HTML5 / CSS3 / jQuery / JS
-- Kakao Login API / iamport API
-- Github
 
 
-
-
-## 담당 개발 내용
