@@ -20,6 +20,7 @@ TREND_EATER
 >>조회 ,쓰기 ,수정 ,삭제(CRUD)    
  
 > 맡은 게시판 프론트단
+> 
 > footer 
 
 
