@@ -1,6 +1,6 @@
 
 Email : sstormt@gmail.com  
-Blog : https://rise-up.tistory.com/
+Blog : https://rise-up.tistory.com
 
 Notion : https://consistently-n-be-positive.notion.site/ce2fae71709d4eddb2834f2c776ba26e  
   
