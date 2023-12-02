@@ -2,7 +2,7 @@
 Email : sstormt@gmail.com  
 Blog : https://rise-up.tistory.com
 
-Notion : https://consistently-n-be-positive.notion.site/ce2fae71709d4eddb2834f2c776ba26e  
+Notion : [https://consistently-n-be-positive.notion.site/ce2fae71709d4eddb2834f2c776ba26e](https://positive1.notion.site/ce2fae71709d4eddb2834f2c776ba26e?pvs=4)   
   
 노션에 사진 및 설명도 같이 첨부해두었습니다^^  
   
